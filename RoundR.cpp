@@ -135,4 +135,5 @@ void display(int n)
   cout<<"\n=====================================================\n"; 
    printf("\nAverage Turn Around Time: %f",p[0].turnaround_time);
    printf("\nAverage Waiting Time: %f\n",p[0].waiting_time);
+   printf("\n Code over");
 }
