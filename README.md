@@ -10,6 +10,4 @@ Design a scheduler that can schedule the processes arriving system at periodical
 Complexity of implemented algorithm is O(Σ(bt[i])).
 
 ## Constraints
-
-1.MAX = 100, so no of processNo < 100.
-2. No of process should not be 0.
+1. No of process should not be 0.
